@@ -2,6 +2,8 @@
 
 A professional starter template combining Electron and Next.js with modern UI components and TypeScript support.
 
+![Screenshot](./public/Screenshot.png)
+
 ## 🚀 Features
 
 - 🌐 **Electron**: Cross-platform desktop application framework
