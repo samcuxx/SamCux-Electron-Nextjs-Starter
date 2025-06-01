@@ -4,14 +4,14 @@ A professional starter template combining Electron and Next.js with modern UI co
 
 ## 🚀 Features
 
-- **Electron**: Cross-platform desktop application framework
-- **Next.js 14**: React framework with App Router
-- **TypeScript**: Type-safe development
-- **Tailwind CSS**: Utility-first CSS framework
-- **Shadcn/ui**: Beautiful and accessible UI components
-- **Theme Support**: Dark/light mode with next-themes
-- **Custom Window Controls**: Frameless window with custom controls
-- **Icon Integration**: Professional app icons across all platforms
+- 🌐 **Electron**: Cross-platform desktop application framework
+- ⚡ **Next.js 14**: React framework with App Router
+- 🔒 **TypeScript**: Type-safe development
+- 🎨 **Tailwind CSS**: Utility-first CSS framework
+- 🎯 **Shadcn/ui**: Beautiful and accessible UI components
+- 🌓 **Theme Support**: Dark/light mode with next-themes
+- 🎛️ **Custom Window Controls**: Frameless window with custom controls
+- 🖼️ **Icon Integration**: Professional app icons across all platforms
 
 ## 📋 Prerequisites
 
