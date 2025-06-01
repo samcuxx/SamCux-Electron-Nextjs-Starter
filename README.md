@@ -82,3 +82,4 @@ This project is private and proprietary.
 ## ��‍💻 Author
 
 SamCux
+# SamCux-Electron-Nextjs-Starter
